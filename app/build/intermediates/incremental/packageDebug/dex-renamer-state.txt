@@ -1,4 +1,4 @@
-#Sun Nov 20 19:38:19 IST 2016
+#Sun Nov 20 21:06:42 IST 2016
 base.0=C\:\\Users\\Gathika\\AndroidStudioProjects\\SimpleExpenseManager\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
 file.0=C\:\\Users\\Gathika\\AndroidStudioProjects\\SimpleExpenseManager\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
