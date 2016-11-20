@@ -3,6 +3,15 @@
 
     <item
         is-multidex="false"
+        jar="C:\Users\Gathika\AndroidStudioProjects\SimpleExpenseManager\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c2ab969b79275a7c33c2d7df0aede0121cc0e51">
+        <dex dex="C:\Users\Gathika\AndroidStudioProjects\SimpleExpenseManager\app\build\intermediates\pre-dexed\debug\instant-run_f8d782bbb886d6d84f3a450553c5d4c9e240f498.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\Gathika\AndroidStudioProjects\SimpleExpenseManager\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -12,11 +21,20 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\Gathika\AndroidStudioProjects\SimpleExpenseManager\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\Gathika\AndroidStudioProjects\SimpleExpenseManager\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_001ac1af55835902aab368b2ce3ff0439a48867e.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\Gathika\AndroidStudioProjects\SimpleExpenseManager\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="2e4e49e0da2dfdf7363cbee005ebae176a42d55a">
+        sha1="cc010107b03483704ad0e1aef6842b4eda18b98a">
         <dex dex="C:\Users\Gathika\AndroidStudioProjects\SimpleExpenseManager\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_a5da29940cccc520ec0e98354ec0af769f8a526b.jar" />
     </item>
     <item
@@ -54,24 +72,6 @@
         revision="23.0.2"
         sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
         <dex dex="C:\Users\Gathika\AndroidStudioProjects\SimpleExpenseManager\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_3b559b397513f4be0f4634190c1f01073d8a7ed6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Gathika\AndroidStudioProjects\SimpleExpenseManager\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="7f65503046c1bf874abdaaa7b5999d86c50abc34">
-        <dex dex="C:\Users\Gathika\AndroidStudioProjects\SimpleExpenseManager\app\build\intermediates\pre-dexed\debug\instant-run_f8d782bbb886d6d84f3a450553c5d4c9e240f498.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Gathika\AndroidStudioProjects\SimpleExpenseManager\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
-        <dex dex="C:\Users\Gathika\AndroidStudioProjects\SimpleExpenseManager\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_001ac1af55835902aab368b2ce3ff0439a48867e.jar" />
     </item>
 
 </items>
